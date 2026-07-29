@@ -4,7 +4,7 @@
 
 Software developer specialized in **C/C++** and low-level graphics programming, currently deepening my skills in **Vulkan**.
 
-Student at **42 Network Belgium**<img src="./assets/42.jpg" height="20"/>, previously trained in industrial computer science at HE2B.
+Student at **42 Network Belgium**, previously trained in industrial computer science at HE2B.
 
 ## Skills
 
