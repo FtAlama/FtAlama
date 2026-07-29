@@ -3,7 +3,8 @@
 # Hi, I'm Lama Ajit
 
 Software developer specialized in **C/C++** and low-level graphics programming, currently deepening my skills in **Vulkan**.
-Student at **42 Network Belgium**, previously trained in industrial computer science at HE2B.
+
+Student at **42 Network Belgium**![42](https://img.shields.io/badge/-42-000000?style=flat&logo=42&logoColor=white), previously trained in industrial computer science at HE2B.
 
 ## Skills
 
