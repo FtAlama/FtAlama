@@ -1,8 +1,9 @@
-<div align="center"> <img src="./assets/tekken.gif" width="100%" alt="banner"/> </div> <br>
+<div align="center"> <img src="./assets/tekken.gif" width="100%" alt="banner"/> <br> <sub><i>me when i see leaks</i></sub> </div> <br>
 
 # Hi, I'm Lama Ajit
 
-Software developer specialized in **C/C++** and low-level graphics programming, currently deepening my skills in **Vulkan**. Student at **42 Network Belgium**, previously trained in industrial computer science at HE2B. Also active as a computer science teacher.
+Software developer specialized in **C/C++** and low-level graphics programming, currently deepening my skills in **Vulkan**.
+Student at **42 Network Belgium**, previously trained in industrial computer science at HE2B.
 
 ## Skills
 
